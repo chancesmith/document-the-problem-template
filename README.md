@@ -6,6 +6,8 @@ Template from the [Document the Problem](https://chancesmith.io/document-the-pro
 
 **key:**
 💡 = solution to a question
+🧠 = smart finding
+🎗 = facts to remember
 ❌ = tried but not a solution
 ✅ = questions has a solution
 
