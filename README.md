@@ -20,7 +20,7 @@ Template from the [Document the Problem](https://chancesmith.io/document-the-pro
 
 💡 An existing endpoint is at `/api/v1/account`. The new endpoint will be at `/api/v1/new-feature`.
 
-## When do I bump the version on the endpoint?
+### When do I bump the version on the endpoint?
 
 ### Where do queries live in the frontend?
 
